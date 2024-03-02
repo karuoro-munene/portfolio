@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-nfnmtaaor3vzh8*^r1(su0c8sawff4icx0nyei5hf0+r)v#o!8
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['104.237.128.188', '127.0.0.1', 'localhost','cyprian.dev']
 
 
 # Application definition
